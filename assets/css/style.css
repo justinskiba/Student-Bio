@@ -1,4 +1,4 @@
-body {
+/* body {
     padding: 0;
     margin: 0;
     font-family: Georgia, "Times New Roman", Times, serif;
@@ -43,4 +43,39 @@ body {
     width: 200px;
     height: 200px;
     margin-right: 20px;
-  }
+  } */
+
+.propicture {
+  height: 200px;
+  width: auto;
+}
+.container-xl {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  max-width: 100%;
+  position: relative;
+  top: 50px;
+  background-color: lightgray;
+}
+.card-body {
+  background-color: black;
+  padding: 10px;
+  height: 200px;
+  width: auto;
+}
+.section {
+  height: 100vh;
+  padding-top: 75px;
+}
+#About {
+  background-color: rgb(189, 209, 187);
+}
+#Portfolio {
+  color: white;
+  background-color: navy;
+}
+.screenshot {
+  height: 300px;
+  width: auto;
+}
